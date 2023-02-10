@@ -1,0 +1,31 @@
+<mxfile>
+    <diagram id="WOjk_pD3XpE7qbP8gY21" name="Page-1">
+        <mxGraphModel dx="649" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="30" width="480" height="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="PROFILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="INVCTUS COIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font size=&quot;3&quot;&gt;2,378&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="ACCOUNT 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="290" width="110" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="ACCOUNT 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="290" width="110" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
